@@ -1,0 +1,3 @@
+0|Juan, 30 años
+1|María, 25 años
+2|Pedro, 40 años
