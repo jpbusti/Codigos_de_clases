@@ -1,0 +1,4 @@
+id,idusuario,idlibro,cantidad,fecha,activo
+1,1,2,1,2024-03-01,1
+2,2,1,2,2024-03-02,1
+3,2,2,1,2024-03-10,1
